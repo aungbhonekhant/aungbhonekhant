@@ -3,34 +3,32 @@
 <p><em>Web Developer at <a href="https://baganit.com/">Bagan Innovation Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://aungkhant.me)](https://aungbhonekhant.github.io/me)
+[![Website Badge](https://img.shields.io/badge/-aungkhant.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://aungkhant.me)](https://aungbhonekhant.github.io/me)
 [![Twitter Badge](https://img.shields.io/badge/-@aungkha16650025-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aungkha16650025)](https://twitter.com/aungkha16650025)
-[![facebook Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
+[![facebook Badge](https://img.shields.io/badge/-@aungkhant-0a84ed?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/winthtet.monkey/)](https://instagram.com/jlim_slam)
+[![Gmail Badge](https://img.shields.io/badge/-aungbhonekhant.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aungbhonekhant.dev@gmail.com)](mailto:jessicalim813@gmail.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Node.js", "React", "php", "Laravel"],
     technologies: {
-        mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["React", "Vue"],
+            css: ["tailwind", "vuetify", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["node", "express", "Nest"],
+            php: ["laravel", "Ci"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO","php"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    currentProject: "I am developing multi vendor ecommerce using laravel && node",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -39,38 +37,22 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-
-```
+<hr>
 
 
-📊 **This week I spent my time on** 
 
-```text
-⌚︎ Timezone: Asia/Calcutta
+<br/><br/>
 
-💬 Languages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aungbhonekhant&show_icons=true)](https://github.com/aungbhonekhant)
 
-🔥 Editors: 
-WebStorm                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
-PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
+<br/>
 
-💻 Operating Systems: 
-Windows                  17 hrs 5 mins       █████████████████████████   100.0%
+<br/>
 
-```
-<!--END_SECTION:waka-->
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungbhonekhant&show_icons=true)
+
+<br><br>
+
+⭐️ From [aungkhant](https://github.com/aungbhonekhant)`
