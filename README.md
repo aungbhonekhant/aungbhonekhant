@@ -55,4 +55,3 @@ const anmol = {
 
 <br><br>
 
-⭐️ From [aungkhant](https://github.com/aungbhonekhant)`
