@@ -3,7 +3,7 @@
 <p><em>Back-End Developer at <a href="https://www.goldsilvercentral.com.sg/">Gold Silver Central</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Website Badge](https://img.shields.io/badge/-aungkhant.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://aungkhant.me)](https://aungbhonekhant.github.io/me)
+[![Website Badge](https://img.shields.io/badge/-aungkhant.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://aungkhant.me)](https://aungkhant.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/-@aungkha16650025-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aungkha16650025)](https://twitter.com/aungkha16650025)
 [![facebook Badge](https://img.shields.io/badge/-@aungkhant-0a84ed?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/winthtet.monkey/)](https://instagram.com/jlim_slam)
 [![Gmail Badge](https://img.shields.io/badge/-aungbhonekhant.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aungbhonekhant.dev@gmail.com)](mailto:jessicalim813@gmail.com)
@@ -27,8 +27,8 @@ const anmol = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO","php"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing multi vendor ecommerce using laravel && node",
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "HyperLedger", "REST Api", ...],
+    currentProject: "I am developing back-end API for Metals trading App",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
