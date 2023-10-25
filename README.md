@@ -1,6 +1,6 @@
 <h2>Hello🙏🏻, I'm Aung Khant! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Web Developer at <a href="https://baganit.com/">Bagan Innovation Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Back-End Developer at <a href="https://www.goldsilvercentral.com.sg/">Gold Silver Central</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Website Badge](https://img.shields.io/badge/-aungkhant.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://aungkhant.me)](https://aungbhonekhant.github.io/me)
