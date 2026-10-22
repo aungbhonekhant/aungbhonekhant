@@ -1,7 +1,7 @@
 <h2>Hello🙏🏻, I'm Aung Khant! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Full-stack developer building the web products businesses run on. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
-<p>7+ years turning complex business workflows into reliable web products: e-commerce platforms and payment gateways, real-estate and financing systems, and AI-powered search tools. Most recently Full-Stack Developer at <a href="https://www.fazwaz.com/">FazWaz</a> (2024–2026).</p>
+<p>6+ years turning complex business workflows into reliable web products: e-commerce platforms and payment gateways, real-estate and financing systems, and AI-powered search tools. Most recently Full-Stack Developer at <a href="https://www.fazwaz.com/">FazWaz</a> (2024–2026).</p>
 
 [![Portfolio Badge](https://img.shields.io/badge/-aungkhant.netlify.app-8FB8AD?style=flat&logo=Google-Chrome&logoColor=white)](https://aungkhant.netlify.app/)
 [![LinkedIn Badge](https://img.shields.io/badge/-aung--bhone--khant-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aung-bhone-khant)
