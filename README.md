@@ -1,5 +1,5 @@
 <h2>Hello🙏🏻, I'm Aung Khant! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/8SM4zh6yKxNUphIkrM/giphy.gif" width="240" alt="Tired bear slumped over a laptop">
 <p><em>Full-stack developer building the web products businesses run on. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 <p>6+ years turning complex business workflows into reliable web products: e-commerce platforms and payment gateways, real-estate and financing systems, and AI-powered search tools. Most recently Full-Stack Developer at <a href="https://www.fazwaz.com/">FazWaz</a> (2024–2026).</p>
 
