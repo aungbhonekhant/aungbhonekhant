@@ -1,34 +1,41 @@
 <h2>Hello🙏🏻, I'm Aung Khant! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Back-End Developer at <a href="https://www.goldsilvercentral.com.sg/">Gold Silver Central</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>Full-stack developer building the web products businesses run on. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p>7+ years turning complex business workflows into reliable web products: e-commerce platforms and payment gateways, real-estate and financing systems, and AI-powered search tools. Most recently Full-Stack Developer at <a href="https://www.fazwaz.com/">FazWaz</a> (2024–2026).</p>
 
-[![Website Badge](https://img.shields.io/badge/-aungkhant.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://aungkhant.me)](https://aungkhant.netlify.app/)
-[![Twitter Badge](https://img.shields.io/badge/-@aungkha16650025-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aungkha16650025)](https://twitter.com/aungkha16650025)
-[![facebook Badge](https://img.shields.io/badge/-@aungkhant-0a84ed?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/winthtet.monkey/)](https://instagram.com/jlim_slam)
-[![Gmail Badge](https://img.shields.io/badge/-aungbhonekhant.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aungbhonekhant.dev@gmail.com)](mailto:jessicalim813@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-aungkhant.netlify.app-8FB8AD?style=flat&logo=Google-Chrome&logoColor=white)](https://aungkhant.netlify.app/)
+[![LinkedIn Badge](https://img.shields.io/badge/-aung--bhone--khant-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aung-bhone-khant)
+[![Gmail Badge](https://img.shields.io/badge/-aungbhonekhant.dev-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aungbhonekhant.dev@gmail.com)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Node.js", "React", "php", "Laravel"],
+const aungKhant = {
+    pronouns: ["he", "him"],
+    role: "Full-Stack Developer",
+    code: ["PHP", "JavaScript", "Python", "GraphQL", "SQL"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue"],
-            css: ["tailwind", "vuetify", "bootstrap"]
+            js: ["Vue.js", "React", "Next.js", "Redux"],
+            css: ["Tailwind", "Vuetify", "Bootstrap", "styled-components"]
         },
         backEnd: {
-            js: ["node", "express", "Nest"],
-            php: ["laravel", "Ci"]
+            php: ["Laravel", "CodeIgniter"],
+            js: ["Node.js", "Express", "NestJS"],
+            python: ["Playwright automation"]
         },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO","php"]
+        databases: ["MySQL", "MongoDB", "Elasticsearch", "SQLite"],
+        devOps: ["AWS", "Docker🐳", "Nginx", "Git"],
+        misc: ["XML feeds", "REST APIs", "Firebase", "Socket.IO", "LLM integrations"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "HyperLedger", "REST Api", ...],
-    currentProject: "I am developing back-end API for Metals trading App",
+    recentWork: [
+        "Self-listing platform: owners list properties without an agent",
+        "Alternative finance: rent-to-own, seller financing and gap loans for buyers without a bank mortgage",
+        "Premium program with automated PDF reports and XML syndication to partner portals",
+        "AI property-search assistant that works with Claude, Gemini and OpenAI",
+        "Facebook group auto-lister in Python + Playwright: about 70% less posting work for the listing team"
+    ],
+    workflow: "Agile",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -36,22 +43,7 @@ const anmol = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-<!--START_SECTION:waka-->
-<hr>
 
+[![Aung Khant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aungbhonekhant&show_icons=true&theme=dark)](https://github.com/aungbhonekhant)
 
-
-<br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aungbhonekhant&show_icons=true&theme=dark)](https://github.com/aungbhonekhant)
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungbhonekhant&show_icons=true&theme=dark)
-
-<br><br>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungbhonekhant&layout=compact&theme=dark)
